@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\polsk\\OneDrive\\Desktop\\PAM_C#\\introductionCS-2022\\01\\01.csproj",
+      "projectUniqueName": "C:\\Users\\polsk\\OneDrive\\Desktop\\Git\\introductionCS-2022\\01\\01.csproj",
       "projectName": "01",
-      "projectPath": "C:\\Users\\polsk\\OneDrive\\Desktop\\PAM_C#\\introductionCS-2022\\01\\01.csproj",
+      "projectPath": "C:\\Users\\polsk\\OneDrive\\Desktop\\Git\\introductionCS-2022\\01\\01.csproj",
       "packagesPath": "C:\\Users\\polsk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\polsk\\OneDrive\\Desktop\\PAM_C#\\introductionCS-2022\\01\\obj\\",
+      "outputPath": "C:\\Users\\polsk\\OneDrive\\Desktop\\Git\\introductionCS-2022\\01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\polsk\\AppData\\Roaming\\NuGet\\NuGet.Config"
