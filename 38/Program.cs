@@ -16,7 +16,7 @@ int[] array = RandomIntArray(123);
 int s = 0;
 foreach (int el in array)
 {
-    if (el > 10 && el < 99)
+    if (el >= 10 && el <= 99)
     {
         s++;
     }
