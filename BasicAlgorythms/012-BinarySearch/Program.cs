@@ -26,12 +26,12 @@ int BinSearch(int[] a, int find)
     int left = 0;
     int right = a.Length - 1;
     i = left + (right - left) / 2;
-    if (find == a[right]) return right;
+    // if (find == a[right]) return right;
     while (a[i] != find && left < right)
     {
         if (find > a[i])
         {
-            left = i;
+            left = i + 1;
         }
         else
         {
