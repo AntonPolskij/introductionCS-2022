@@ -16,38 +16,38 @@
 //Структура
 
 
-class Program
-{
+// class Program
+// {
 
-    struct Point
-    {
-        public double x, y;
-    }
+//     struct Point
+//     {
+//         public double x, y;
+//     }
 
 
-    static double Distance(Point A, Point B)
-    {
-        return Math.Sqrt(Math.Pow(A.x - B.x, 2) + Math.Pow(A.y - B.y, 2));
-    }
-    static void Main()
-    {
-        Point a, b;
-        a.x = 0;
-        a.x = 0;
-        b.x = 2;
-        b.y = 3;
-        System.Console.WriteLine(Distance(a, b));
+//     static double Distance(Point A, Point B)
+//     {
+//         return Math.Sqrt(Math.Pow(A.x - B.x, 2) + Math.Pow(A.y - B.y, 2));
+//     }
+//     static void Main()
+//     {
+//         Point a, b;
+//         a.x = 0;
+//         a.x = 0;
+//         b.x = 2;
+//         b.y = 3;
+//         System.Console.WriteLine(Distance(a, b));
 
-        Point[] figure = new Point[3];
-        double k = 2;
-        for (int i = 0; i < figure.Length; i++)
-        {
-            figure[i].x = figure[i].x * k;
-            figure[i].y *= k;
-        }
-    }
+//         Point[] figure = new Point[3];
+//         double k = 2;
+//         for (int i = 0; i < figure.Length; i++)
+//         {
+//             figure[i].x = figure[i].x * k;
+//             figure[i].y *= k;
+//         }
+//     }
 
-}
+// }
 
 
 
