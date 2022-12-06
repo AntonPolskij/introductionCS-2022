@@ -56,3 +56,5 @@ int[] a = RandomIntArray(10);
 Print(a);
 SelectSort(a);
 Print(a);
+Reverse(a);
+Print(a);

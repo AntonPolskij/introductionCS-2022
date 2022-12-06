@@ -1,7 +1,5 @@
 ﻿// Алгоритм Евклида
 
-int a = 10, b = 15;
-
 int GCD(int a, int b)
 {
     while (a != b)

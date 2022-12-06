@@ -44,3 +44,4 @@ int[] a = RandomIntArray(max: 10);
 Print(a);
 System.Console.WriteLine();
 System.Console.WriteLine(Max(a));
+System.Console.WriteLine(Min(a));

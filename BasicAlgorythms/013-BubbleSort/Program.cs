@@ -53,3 +53,5 @@ int[] a = RandomIntArray(10);
 Print(a);
 BubbleSort(a);
 Print(a);
+Reverse(a);
+Print(a);
