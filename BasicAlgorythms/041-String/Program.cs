@@ -36,7 +36,7 @@ System.Console.WriteLine(String.Compare(s1, s2));
 s2 = s1.Substring(2, 3);
 System.Console.WriteLine(s1.IndexOf("as"));
 s2 = s1.Replace('a', 'b');
-s3 = s1.Replace("ab", "ba");
+// s3 = s1.Replace("ab", "ba");
 
 
 /*string s = Console.Readline();
@@ -50,9 +50,9 @@ int a = n[0];
 int b = n[1];
 int c = n[2];*/
 
-string[] ss = Console.Readline().Split(' ');
-int[] n = new int[ss.Length];
-Array.ConvertAll<string, int>(ss, Convert.ToInt32);//обобщенные типы и параметризированные методы.
-int a = n[0];
-int b = n[1];
-int c = n[2];
+// string[] ss = Console.Readline().Split(' ');
+// int[] n = new int[ss.Length];
+// Array.ConvertAll<string, int>(ss, Convert.ToInt32);//обобщенные типы и параметризированные методы.
+// int a = n[0];
+// int b = n[1];
+// int c = n[2];
